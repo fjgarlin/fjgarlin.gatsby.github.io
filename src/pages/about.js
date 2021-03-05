@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Layout from "../components/layout"
 
@@ -11,12 +10,9 @@ const AboutPage = () => {
             <p>I also like running, basketball and photography, among others.</p>
             <p>You can also find me on:</p>
             <ul>
+                <li><a href="https://www.drupal.org/u/fjgarlin" target="_blank">Drupal</a></li>
                 <li><a href="https://www.linkedin.com/in/fjgarlin" target="_blank">Linkedin</a></li>
 				<li><a href="https://github.com/fjgarlin" target="_blank">Github</a></li>
-				<li><a href="https://www.drupal.org/u/fjgarlin" target="_blank">Drupal</a></li>
-				<li><a href="https://slides.com/fjgarlin" target="_blank">Slides</a></li>
-                <li><a href="https://www.flickr.com/photos/fjgarlin" target="_blank">Flickr</a></li>
-				<li><a href="https://www.strava.com/athletes/14293972" target="_blank">Strava</a></li>
                 <li><a href="mailto:fjgarlin@gmail.com" target="_blank">Mail</a></li>
             </ul>
         </Layout>

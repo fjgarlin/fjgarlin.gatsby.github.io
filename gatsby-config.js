@@ -5,13 +5,6 @@ module.exports = {
     },
     plugins: [
         'gatsby-plugin-sass',
-        {
-            resolve: 'gatsby-source-filesystem',
-            options: {
-                name: 'blog',
-                path: `${__dirname}/content/blog`
-            }
-        },
         'gatsby-plugin-sharp',
         {
             resolve: 'gatsby-transformer-remark',
