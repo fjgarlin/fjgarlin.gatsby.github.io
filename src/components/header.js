@@ -20,6 +20,7 @@ const Header = () => {
         <h1>
           <Link className={headerStyles.title} to="/">
             {data.site.siteMetadata.title}
+            <img className={headerStyles.titleImage} src={"https://github.com/" + data.site.siteMetadata.title + ".png"} alt={data.site.siteMetadata.title + " Image"} />
           </Link>
         </h1>
         <nav>

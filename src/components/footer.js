@@ -8,7 +8,7 @@ const Footer = () => {
         query {
             site {
                 siteMetadata {
-                    author
+                    title
                 }
             }
         }
@@ -16,7 +16,9 @@ const Footer = () => {
 
     return (
         <footer className={footerStyles.footer}>
-            <p>{data.site.siteMetadata.author} © {(new Date().getFullYear())}</p>
+            <div className={footerStyles.wrapper}>
+                <p>© {(new Date().getFullYear())} {data.site.siteMetadata.title}</p>
+            </div>
         </footer>
     )
 }
