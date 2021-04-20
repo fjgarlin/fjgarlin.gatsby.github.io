@@ -1,8 +1,21 @@
 #! /usr/bin/env bash
 
+# Build new copy.
 yarn run build
-cp -R ./public/ ../fjgarlin.github.io/
-cd ../fjgarlin.github.io
+
+# Bring github.io repo and override public folder.
+NEWFOLDER=/tmp/$(date '+%Y%m%d%H%M%S')
+CURRENTFOLDER=$(pwd)
+
+mkdir $NEWFOLDER
+cd $NEWFOLDER
+git clone git@github.com:fjgarlin/fjgarlin.github.io.git .
+
+cp -R $CURRENTFOLDER/public/ $NEWFOLDER
+
 git add .
-git commit -am "New build."
+git commit -am "New build: $(date '+%Y%m%d%H%M%S')."
 git push
+
+cd $CURRENTFOLDER
+rm -rf $NEWFOLDER
