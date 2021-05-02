@@ -43,7 +43,7 @@ const Header = () => {
                 About
               </Link>
             </li>
-            {/* <li>
+            <li>
               <Link
                 className={headerStyles.navItem}
                 activeClassName={headerStyles.activeNavItem}
@@ -51,7 +51,7 @@ const Header = () => {
               >
                 #12months<span className={headerStyles.hiddenXs}>12patches</span>
               </Link>
-            </li> */}
+            </li>
           </ul>
         </nav>
       </div>
