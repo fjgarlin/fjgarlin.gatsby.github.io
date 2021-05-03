@@ -21,8 +21,9 @@ const Patches = (props) => {
                                 {patch.month}
                                 <ul>
                                     {patch.urls.map((u, i3) => {
+                                        const url = new URL(u)
                                         return <li key={`content_item_${i3}`}>
-                                            <a rel="noreferrer" href={u} target="_blank">{clearHash(u)}</a>
+                                            <a rel="noreferrer" href={url.href} target="_blank">...{url.pathname}</a>
                                         </li>
                                     })}
                                 </ul>
