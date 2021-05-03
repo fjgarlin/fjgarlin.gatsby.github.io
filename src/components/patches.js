@@ -1,6 +1,10 @@
 import React from 'react'
 import PatchesData from "../data/12months12patches.json"
 
+const clearHash = function(str) {
+    return str.substr(0, str.indexOf('#'))
+}
+
 const Patches = (props) => {
     return (
         <div>
@@ -18,7 +22,7 @@ const Patches = (props) => {
                                 <ul>
                                     {patch.urls.map((u, i3) => {
                                         return <li key={`content_item_${i3}`}>
-                                            <a rel="noreferrer" href={u} target="_blank">{u}</a>
+                                            <a rel="noreferrer" href={u} target="_blank">{clearHash(u)}</a>
                                         </li>
                                     })}
                                 </ul>

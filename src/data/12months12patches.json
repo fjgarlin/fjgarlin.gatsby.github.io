@@ -7,21 +7,77 @@
                 {
                     "month": "January",
                     "urls": [
-                        "url",
-                        "url2",
-                        "url3"
+                        "https://www.drupal.org/project/webform_multifile/issues/302496",
+                        "https://www.drupal.org/project/webform_multifile/issues/3028044#comment-1293944"
                     ]
                 },
                 {
                     "month": "February",
                     "urls": [
-                        "url"
+                        "https://www.drupal.org/project/webform_multifile/issues/2175623#comment-1295887"
                     ]
                 },
                 {
                     "month": "March",
                     "urls": [
-                        "url"
+                        "https://www.drupal.org/project/rules/issues/2816033#comment-13022358"
+                    ]
+                },
+                {
+                    "month": "April",
+                    "urls": [
+                        "https://www.drupal.org/project/access_unpublished/issues/3046755#comment-13059653"
+                    ]
+                },
+                {
+                    "month": "May",
+                    "urls": [
+                        "https://www.drupal.org/project/read_time/issues/3053871#comment-1312670"
+                    ]
+                },
+                {
+                    "month": "June",
+                    "urls": [
+                        "https://www.drupal.org/project/token/issues/2595925#comment-1316029"
+                    ]
+                },
+                {
+                    "month": "July",
+                    "urls": [
+                        "https://www.drupal.org/project/twig_tweak/issues/3066756#comment-1317598"
+                    ]
+                },
+                {
+                    "month": "August",
+                    "urls": [
+                        "https://www.drupal.org/project/gtranslate/issues/3076274#comment-1322995"
+                    ]
+                },
+                {
+                    "month": "September",
+                    "urls": [
+                        "https://www.drupal.org/project/environment_indicator/issues/2610208#comment-1327513"
+                    ]
+                },
+                {
+                    "month": "October",
+                    "urls": [
+                        "https://www.drupal.org/project/scheduler/issues/3084867#comment-1327951"
+                    ]
+                },
+                {
+                    "month": "November",
+                    "urls": [
+                        "https://www.drupal.org/project/webform/issues/3090285#comment-1334262",
+                        "https://www.drupal.org/project/webform/issues/3074516#comment-1334272",
+                        "https://www.drupal.org/project/stage_file_proxy/issues/2933010#comment-1334586",
+                        "https://www.drupal.org/project/hreflang/issues/3094109#comment-1335083"
+                    ]
+                },
+                {
+                    "month": "December",
+                    "urls": [
+                        "https://www.drupal.org/project/visitors/issues/3090532#comment-13391230"
                     ]
                 }
             ]
