@@ -1,10 +1,6 @@
 import React from 'react'
 import PatchesData from "../data/12months12patches.json"
 
-const clearHash = function(str) {
-    return (str.indexOf('#') !== -1) ? str.substr(0, str.indexOf('#')) : str
-}
-
 const Patches = (props) => {
     return (
         <div>
