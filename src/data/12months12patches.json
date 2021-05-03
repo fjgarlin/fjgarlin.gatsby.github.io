@@ -89,9 +89,85 @@
                 {
                     "month": "January",
                     "urls": [
-                        "url",
-                        "url2",
-                        "url3"
+                        "https://www.drupal.org/project/commerce_billy/issues/2966391#comment-13416530"
+                    ]
+                },
+                {
+                    "month": "February",
+                    "urls": [
+                        "https://www.drupal.org/project/globalredirect/issues/2150483#comment-13455409",
+                        "https://www.drupal.org/project/media/issues/3113045#comment-13461520",
+                        "https://github.com/amazeeio/lagoon/pull/1669",
+                        "https://www.drupal.org/project/config_notify"
+                    ]
+                },
+                {
+                    "month": "March",
+                    "urls": [
+                        "https://www.drupal.org/project/protected_submissions/issues/3118715#comment-13495893",
+                        "https://www.drupal.org/project/pathauto/issues/3119354#comment-13506262"
+                    ]
+                },
+                {
+                    "month": "April",
+                    "urls": [
+                        "https://www.drupal.org/project/migration_notify"
+                    ]
+                },
+                {
+                    "month": "May",
+                    "urls": [
+                        "https://www.drupal.org/project/metatag/issues/3136075#comment-13628335"
+                    ]
+                },
+                {
+                    "month": "June",
+                    "urls": [
+                        "https://www.drupal.org/project/config_notify/issues/3128111",
+                        "https://www.drupal.org/project/search_api_workspaces/issues/3154463#comment-13716225",
+                        "https://www.drupal.org/project/search_api_workspaces/issues/3153778"
+                    ]
+                },
+                {
+                    "month": "July",
+                    "urls": [
+                        "https://www.drupal.org/project/drupalcon_global/issues/3161797"
+                    ]
+                },
+                {
+                    "month": "August",
+                    "urls": [
+                        "https://www.drupal.org/project/facets/issues/2928299#comment-13788055"
+                    ]
+                },
+                {
+                    "month": "September",
+                    "urls": [
+                        "https://www.drupal.org/project/currency/issues/3169903",
+                        "https://github.com/drupal-graphql/graphql/pull/1085"
+                    ]
+                },
+                {
+                    "month": "October",
+                    "urls": [
+                        "https://www.drupal.org/project/webform_pardot/issues/3174322#comment-13844222",
+                        "https://www.drupal.org/project/webform_pardot/issues/3159187#comment-13852580",
+                        "https://www.drupal.org/project/views_random_seed/issues/3176624#comment-13858171"
+                    ]
+                },
+                {
+                    "month": "November",
+                    "urls": [
+                        "https://www.drupal.org/project/backup_migrate/issues/3166166"
+                    ]
+                },
+                {
+                    "month": "December",
+                    "urls": [
+                        "https://www.drupal.org/project/smtp/issues/3187512#comment-13935113",
+                        "https://www.drupal.org/project/lagoon_logs/issues/3137473",
+                        "https://www.drupal.org/project/lagoon_logs/issues/3134674",
+                        "https://www.drupal.org/project/lagoon_logs/issues/3157657"
                     ]
                 }
             ]
@@ -103,9 +179,38 @@
                 {
                     "month": "January",
                     "urls": [
-                        "url",
-                        "url2",
-                        "url3"
+                        "https://www.drupal.org/project/smtp/issues/3151182",
+                        "https://www.drupal.org/project/smtp/issues/2971578",
+                        "https://github.com/dantleech/fink/pull/116/files"
+                    ]
+                },
+                {
+                    "month": "February",
+                    "urls": [
+                        "https://www.drupal.org/project/external_register_redirect",
+                        "https://www.drupal.org/project/ip2location/issues/3199895#comment-14008444",
+                        "https://www.drupal.org/project/switch_page_theme/issues/3145213#comment-14011378"
+                    ]
+                },
+                {
+                    "month": "March",
+                    "urls": [
+                        "https://www.drupal.org/project/webform_pardot/issues/3204411#comment-14034472",
+                        "https://www.drupal.org/project/quicklink/issues/3160964#comment-14039366",
+                        "https://www.drupal.org/project/webform_pardot/issues/3204411#comment-14043707"
+                    ]
+                },
+                {
+                    "month": "April",
+                    "urls": [
+                        "https://github.com/Lullabot/drupal8ci/pull/61/files",
+                        "https://github.com/Lullabot/drupal8ci/pull/65/files",
+                        "https://github.com/Lullabot/drupal8ci/pull/70/files",
+                        "https://github.com/Lullabot/drupal9ci/pull/71/files",
+                        "https://www.drupal.org/project/lagoon_logs/issues/3206815#comment-14060411",
+                        "https://www.drupal.org/project/lagoon_logs/issues/3206815#comment-14065279",
+                        "https://www.drupal.org/project/wistia/issues/3210178#comment-14068875",
+                        "https://github.com/amazeeio/aergia-controller/pull/1"
                     ]
                 }
             ]

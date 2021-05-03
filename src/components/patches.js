@@ -2,21 +2,21 @@ import React from 'react'
 import PatchesData from "../data/12months12patches.json"
 
 const clearHash = function(str) {
-    return str.substr(0, str.indexOf('#'))
+    return (str.indexOf('#') !== -1) ? str.substr(0, str.indexOf('#')) : str
 }
 
 const Patches = (props) => {
     return (
         <div>
-            {PatchesData.data.map((data, i1) => {
+            {PatchesData.data.reverse().map((data, i1) => {
                 return <div key={`content_item_${i1}`}>
-                    {data.item}
+                    <hr />
                     <h3 id={"year_" + data.year}>
                         {data.year}
                         {data.blogPost && <small> - <a rel="noreferrer" href={data.blogPost} target="_blank">Blog post</a></small>}
                     </h3>
                     <ul>
-                        {data.patches.map((patch, i2) => {
+                        {data.patches.reverse().map((patch, i2) => {
                             return <li key={`content_li_${i2}`}>
                                 {patch.month}
                                 <ul>
