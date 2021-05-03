@@ -7,5 +7,4 @@ To get up and running:
 * `yarn run develop`
 
 To deploy:
-* Make sure the `fjgarlin.gitbub.io` repo is on `../fjgarlin.github.io/` folder.
 * `./deploy.sh`
