@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "year": "2019",
+            "blogPost": "https://www.amazeelabs.com/en/journal/contributing-12-drupal-patches-12-months",
+            "patches": [
+                {
+                    "month": "January",
+                    "url": "url"
+                },
+                {
+                    "month": "January",
+                    "url": "url"
+                },
+                {
+                    "month": "February",
+                    "url": "url"
+                }
+            ]
+        },
+        {
+            "year": "2020",
+            "blogPost": "https://www.amazeelabs.com/en/journal/contributing-12-patches-12-months-again",
+            "patches": [
+                {
+                    "month": "January",
+                    "url": "url"
+                }
+            ]
+        },
+        {
+            "year": "2021",
+            "blogPost": "",
+            "patches": [
+                {
+                    "month": "January",
+                    "url": "url"
+                }
+            ]
+        }
+    ]
+}
