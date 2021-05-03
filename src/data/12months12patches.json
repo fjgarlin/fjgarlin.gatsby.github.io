@@ -6,15 +6,23 @@
             "patches": [
                 {
                     "month": "January",
-                    "url": "url"
-                },
-                {
-                    "month": "January",
-                    "url": "url"
+                    "urls": [
+                        "url",
+                        "url2",
+                        "url3"
+                    ]
                 },
                 {
                     "month": "February",
-                    "url": "url"
+                    "urls": [
+                        "url"
+                    ]
+                },
+                {
+                    "month": "March",
+                    "urls": [
+                        "url"
+                    ]
                 }
             ]
         },
@@ -24,7 +32,11 @@
             "patches": [
                 {
                     "month": "January",
-                    "url": "url"
+                    "urls": [
+                        "url",
+                        "url2",
+                        "url3"
+                    ]
                 }
             ]
         },
@@ -34,7 +46,11 @@
             "patches": [
                 {
                     "month": "January",
-                    "url": "url"
+                    "urls": [
+                        "url",
+                        "url2",
+                        "url3"
+                    ]
                 }
             ]
         }
