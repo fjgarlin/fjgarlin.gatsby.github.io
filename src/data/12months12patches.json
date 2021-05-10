@@ -180,8 +180,7 @@
                     "month": "January",
                     "urls": [
                         "https://www.drupal.org/project/smtp/issues/3151182",
-                        "https://www.drupal.org/project/smtp/issues/2971578",
-                        "https://github.com/dantleech/fink/pull/116/files"
+                        "https://www.drupal.org/project/smtp/issues/2971578"
                     ]
                 },
                 {
@@ -209,8 +208,7 @@
                         "https://www.drupal.org/project/lagoon_logs/issues/3206815#comment-14060411",
                         "https://www.drupal.org/project/lagoon_logs/issues/3206815#comment-14065279",
                         "https://github.com/Lullabot/drupal9ci/pull/71/files",
-                        "https://www.drupal.org/project/wistia/issues/3210178#comment-14068875",
-                        "https://github.com/amazeeio/aergia-controller/pull/1"
+                        "https://www.drupal.org/project/wistia/issues/3210178#comment-14068875"
                     ]
                 },
                 {
