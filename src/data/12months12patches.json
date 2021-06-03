@@ -222,6 +222,12 @@
                         "https://www.drupal.org/project/legal/issues/3074688#comment-14108345",
                         "https://www.drupal.org/project/backup_migrate_flysystem/issues/3172376#comment-14114881"
                     ]
+                },
+                {
+                    "month": "June",
+                    "urls": [
+                        "https://www.drupal.org/project/views_bulk_operations/issues/3211494#comment-14123323"
+                    ]
                 }
             ]
         }
