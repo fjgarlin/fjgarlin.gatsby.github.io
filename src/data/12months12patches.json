@@ -226,7 +226,8 @@
                 {
                     "month": "June",
                     "urls": [
-                        "https://www.drupal.org/project/views_bulk_operations/issues/3211494#comment-14123323"
+                        "https://www.drupal.org/project/views_bulk_operations/issues/3211494#comment-14123323",
+                        "https://www.drupal.org/project/lagoon_varnish/issues/3185313#comment-14127597"
                     ]
                 }
             ]
