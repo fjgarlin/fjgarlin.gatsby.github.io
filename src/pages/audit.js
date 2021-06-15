@@ -2,6 +2,7 @@ import React from 'react'
 
 // import Layout from "../components/layout"
 import auditStyles from './audit.module.scss'
+import Footer from '../components/footer'
 
 const AuditPage = () => {
     return (
@@ -30,8 +31,8 @@ const AuditPage = () => {
                 </div>
             </div>
             <hr />
-            <div class={auditStyles.grid}>
-                <div class={auditStyles.box}>
+            <div class={auditStyles.gridLeft}>
+                <div>
                     <h3>Expertise &amp; Training</h3>
                     <ul>
                         <li>Web</li>
@@ -41,7 +42,10 @@ const AuditPage = () => {
                         <li>Drupal</li>
                     </ul>
                 </div>
-                <div class={auditStyles.box}>
+            </div>
+            <hr />
+            <div class={auditStyles.gridRight}>
+                <div>
                     <h3>Pricing</h3>
                     <ul>
                         <li>Per hour: <b>EUR 80</b></li>
@@ -52,6 +56,7 @@ const AuditPage = () => {
                     </ul>
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }

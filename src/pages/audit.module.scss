@@ -8,10 +8,23 @@
 
     .grid {
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         align-items: stretch;
         flex-wrap: wrap;
         flex-flow: row wrap;
+    }
+
+    .gridCentered {
+        display: flex;
+        justify-content: center;
+    }
+    .gridLeft {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .gridRight {
+        display: flex;
+        justify-content: flex-end;
     }
 
     .box {
