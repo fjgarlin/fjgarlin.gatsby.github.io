@@ -1,0 +1,21 @@
+.audit {
+    padding: 30px;
+
+    h2 {
+        padding: 30px;
+        text-align: center;
+    }
+
+    .grid {
+        display: flex;
+        justify-content: space-around;
+        align-items: stretch;
+        flex-wrap: wrap;
+        flex-flow: row wrap;
+    }
+
+    .box {
+        flex-grow: 1;
+        // border: 1px solid red;
+    }
+}
