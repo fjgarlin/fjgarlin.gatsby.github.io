@@ -33,7 +33,7 @@ const WebServicesPage = () => {
                 <div class={webServicesStyles.box}>
                     <h3>Pricing</h3>
                     <ul>
-                        <li>Per hour: <em>EUR 80</em></li>
+                        <li>Per hour</li>
                         <li>Per product</li>
                         <li>Per package</li>
                     </ul>

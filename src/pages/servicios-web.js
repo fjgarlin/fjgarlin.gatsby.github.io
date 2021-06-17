@@ -14,7 +14,7 @@ const ServiciosWebPage = () => {
             <hr />
             <div class={webServicesStyles.grid}>
                 <div class={webServicesStyles.box}>
-                    <h3>Auditoria, ¿cómo está tu web?</h3>
+                    <h3>Auditoria, ¿analizamos tu web?</h3>
                     <ul>
                         <li>Adaptada a móviles y tablets</li>
                         <li>Velocidad de carga y navegación</li>
@@ -33,7 +33,7 @@ const ServiciosWebPage = () => {
                 <div class={webServicesStyles.box}>
                     <h3>Precios</h3>
                     <ul>
-                        <li>Por hora: <em>80 EUR</em></li>
+                        <li>Por hora</li>
                         <li>Por producto</li>
                         <li>Por paquete de productos</li>
                     </ul>
