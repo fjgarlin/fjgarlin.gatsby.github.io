@@ -13,7 +13,6 @@ const AboutPage = () => {
                 <li><a rel="noreferrer" href="https://www.drupal.org/u/fjgarlin" target="_blank">Drupal</a></li>
                 <li><a rel="noreferrer" href="https://www.linkedin.com/in/fjgarlin" target="_blank">Linkedin</a></li>
 				<li><a rel="noreferrer" href="https://github.com/fjgarlin" target="_blank">Github</a></li>
-                <li><a rel="noreferrer" href="mailto:fjgarlin@gmail.com" target="_blank">Mail</a></li>
             </ul>
         </Layout>
     )

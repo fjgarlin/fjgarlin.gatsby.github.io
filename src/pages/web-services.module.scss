@@ -1,0 +1,35 @@
+.webServices {
+    padding: 2rem;
+
+    h2 {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    .grid {
+        display: flex;
+        justify-content: space-between;
+        align-items: stretch;
+        flex-wrap: wrap;
+        flex-flow: row wrap;
+    }
+
+    .gridCentered {
+        display: flex;
+        justify-content: center;
+    }
+    .gridLeft {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .gridRight {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .box {
+        flex-grow: 1;
+        padding: 0.5rem;
+        // border: 1px solid red;
+    }
+}
