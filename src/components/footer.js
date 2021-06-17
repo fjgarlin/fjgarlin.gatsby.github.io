@@ -3,7 +3,7 @@ import { graphql, useStaticQuery } from 'gatsby'
 
 import footerStyles from './footer.module.scss'
 
-const Footer = () => {
+const Footer = ({ language = 'en' }) => {
     const data = useStaticQuery(graphql`
         query {
             site {
@@ -17,7 +17,7 @@ const Footer = () => {
     return (
         <footer className={footerStyles.footer}>
             <div className={footerStyles.fixedBottom}>
-                <a rel="noreferrer" href="mailto:fjgarlin@gmail.com" target="_blank">Contact me</a>
+                <a rel="noreferrer" href="mailto:fjgarlin@gmail.com" target="_blank">{language == 'en' ? 'Contact me' : 'Contactar'}</a>
                 <span className={footerStyles.toRight}>© {(new Date().getFullYear())} {data.site.siteMetadata.title}</span>
             </div>
         </footer>
