@@ -14,7 +14,7 @@ const WebServicesPage = () => {
             <hr />
             <div class={webServicesStyles.grid}>
                 <div class={webServicesStyles.box}>
-                    <h3>Audit - How is your site?</h3>
+                    <h3>Audit, how is your site?</h3>
                     <ul>
                         <li>Responsiveness</li>
                         <li>Speed</li>

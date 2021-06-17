@@ -14,7 +14,7 @@ const ServiciosWebPage = () => {
             <hr />
             <div class={webServicesStyles.grid}>
                 <div class={webServicesStyles.box}>
-                    <h3>Auditoria - ¿Cómo está tu web?</h3>
+                    <h3>Auditoria, ¿cómo está tu web?</h3>
                     <ul>
                         <li>Adaptada a móviles y tablets</li>
                         <li>Velocidad de carga y navegación</li>
