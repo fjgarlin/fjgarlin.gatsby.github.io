@@ -17,7 +17,7 @@ const Footer = ({ language = 'en' }) => {
     return (
         <footer className={footerStyles.footer}>
             <div className={footerStyles.fixedBottom}>
-                <a rel="noreferrer" href="mailto:fjgarlin@gmail.com" target="_blank">{language == 'en' ? 'Contact me' : 'Contactar'}</a>
+                <a rel="noreferrer" href="mailto:fjgarlin@gmail.com" target="_blank">{language === 'en' ? 'Contact me' : 'Contactar'}</a>
                 <span className={footerStyles.toRight}>© {(new Date().getFullYear())} {data.site.siteMetadata.title}</span>
             </div>
         </footer>

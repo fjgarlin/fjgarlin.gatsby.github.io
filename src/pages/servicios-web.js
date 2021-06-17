@@ -1,12 +1,15 @@
 import React from 'react'
+import { Link } from "gatsby"
 
 // import Layout from "../../components/layout"
 import webServicesStyles from './web-services.module.scss'
+import languageSwitcherStyles from '../styles/language-switcher.module.scss'
 import Footer from '../components/footer'
 
 const ServiciosWebPage = () => {
     return (
         <div class={webServicesStyles.webServices}>
+            <Link className={languageSwitcherStyles.language} to="/web-services">EN</Link>
             <h2>Servicios Web</h2>
             <hr />
             <div class={webServicesStyles.grid}>
