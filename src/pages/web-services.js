@@ -39,7 +39,7 @@ const WebServicesPage = () => {
                     </ul>
                     <p>
                         International support and invoicing.<br />
-                        <small><em>Currencies: EUR, GBP, USD, BTC.</em></small>
+                        <small><em>Currencies: EUR, GBP, USD.</em></small>
                     </p>
                 </div>
             </div>

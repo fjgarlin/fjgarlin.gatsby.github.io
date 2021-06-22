@@ -39,7 +39,7 @@ const ServiciosWebPage = () => {
                     </ul>
                     <p>
                         Soporte international y facturación.<br />
-                        <small><em>Monedas: EUR, GBP, USD, BTC.</em></small>
+                        <small><em>Monedas: EUR, GBP, USD.</em></small>
                     </p>
                 </div>
             </div>
