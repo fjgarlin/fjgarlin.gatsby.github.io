@@ -232,6 +232,12 @@
                         "https://www.drupal.org/project/extlink/issues/3219102#comment-14135332",
                         "https://www.drupal.org/project/discourse_sso/issues/3219570#comment-14138262"
                     ]
+                },
+                {
+                    "month": "July",
+                    "urls": [
+                        "https://www.drupal.org/project/legal/issues/3134411#comment-14159219"
+                    ]
                 }
             ]
         }
