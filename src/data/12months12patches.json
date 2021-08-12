@@ -239,6 +239,12 @@
                         "https://www.drupal.org/project/legal/issues/3134411#comment-14159219",
                         "https://www.drupal.org/project/vapn/issues/3204436#comment-14163928"
                     ]
+                },
+                {
+                    "month": "August",
+                    "urls": [
+                        "https://www.drupal.org/project/admin_toolbar/issues/3218206#comment-14189231"
+                    ]
                 }
             ]
         }
