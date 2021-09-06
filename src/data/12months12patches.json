@@ -246,6 +246,12 @@
                         "https://www.drupal.org/project/admin_toolbar/issues/3218206#comment-14189231",
                         "https://www.drupal.org/project/admin_toolbar/issues/3172943#comment-14189269"
                     ]
+                },
+                {
+                    "month": "September",
+                    "urls": [
+                        "https://www.drupal.org/project/oauth2_server/issues/3218576#comment-14210669"
+                    ]
                 }
             ]
         }
