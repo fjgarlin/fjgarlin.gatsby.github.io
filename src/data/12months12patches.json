@@ -251,7 +251,8 @@
                     "month": "September",
                     "urls": [
                         "https://www.drupal.org/project/oauth2_server/issues/3218576#comment-14210669",
-                        "https://www.drupal.org/project/email_registration/issues/2991141#comment-14212365"
+                        "https://www.drupal.org/project/email_registration/issues/2991141#comment-14212365",
+                        "https://github.com/drupal-graphql/graphql/pull/1242/files"
                     ]
                 }
             ]
