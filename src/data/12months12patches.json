@@ -254,6 +254,12 @@
                         "https://www.drupal.org/project/email_registration/issues/2991141#comment-14212365",
                         "https://github.com/drupal-graphql/graphql/pull/1242/files"
                     ]
+                },
+                {
+                    "month": "October",
+                    "urls": [
+                        "https://www.drupal.org/project/email_registration/issues/2991141#comment-14247781"
+                    ]
                 }
             ]
         }
