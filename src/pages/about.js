@@ -6,7 +6,7 @@ const AboutPage = () => {
     return (
         <Layout>
             <h2>About Me</h2>
-            <p>I work at <a rel="noreferrer" href="https://www.amazeelabs.com/en" target="_blank">AmazeeLabs</a> as Drupal Web Developer, Team and Tech Lead for the Global Maintenance Team.</p>
+            <p>I work at the <a rel="noreferrer" href="https://www.drupal.org/association" target="_blank">Drupal Association</a> as part of the Engineering Team.</p>
             <p>I also like running, basketball and photography, among others.</p>
             <p>You can also find me on:</p>
             <ul>
