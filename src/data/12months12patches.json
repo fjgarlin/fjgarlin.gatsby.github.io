@@ -261,6 +261,12 @@
                         "https://www.drupal.org/project/email_registration/issues/2991141#comment-14247781",
                         "https://github.com/Lullabot/drupal9ci/pull/76/files"
                     ]
+                },
+                {
+                    "month": "November",
+                    "urls": [
+                        "https://www.drupal.org/project/captcha/issues/3215760#comment-14282674"
+                    ]
                 }
             ]
         }
