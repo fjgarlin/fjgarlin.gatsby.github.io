@@ -38,15 +38,6 @@ const Header = () => {
               <Link
                 className={headerStyles.navItem}
                 activeClassName={headerStyles.activeNavItem}
-                to="/about"
-              >
-                About
-              </Link>
-            </li>
-            <li>
-              <Link
-                className={headerStyles.navItem}
-                activeClassName={headerStyles.activeNavItem}
                 to="/12months12patches"
               >
                 #12months<span className={headerStyles.hiddenXs}>12patches</span>
