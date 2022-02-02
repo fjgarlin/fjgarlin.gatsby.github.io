@@ -276,6 +276,18 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2022",
+            "blogPost": "",
+            "patches": [
+                {
+                    "month": "January",
+                    "urls": [
+                        "https://www.drupal.org/project/paragraphs_edit/issues/3259601"
+                    ]
+                }
+            ]
         }
     ]
 }
