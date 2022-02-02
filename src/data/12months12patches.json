@@ -286,6 +286,12 @@
                     "urls": [
                         "https://www.drupal.org/project/paragraphs_edit/issues/3259601"
                     ]
+                },
+                {
+                    "month": "February",
+                    "urls": [
+                        "https://www.drupal.org/project/lagoon_logs/issues/3261904"
+                    ]
                 }
             ]
         }
