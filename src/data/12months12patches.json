@@ -291,7 +291,8 @@
                     "month": "February",
                     "urls": [
                         "https://www.drupal.org/project/lagoon_logs/issues/3261904",
-                        "https://www.drupal.org/project/reroute_email/issues/3262231#comment-14398395"
+                        "https://www.drupal.org/project/reroute_email/issues/3262231#comment-14398395",
+                        "https://www.drupal.org/project/config_notify/issues/3265539"
                     ]
                 }
             ]
