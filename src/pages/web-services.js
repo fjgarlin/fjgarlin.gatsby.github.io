@@ -2,8 +2,8 @@ import React from 'react'
 import { Link } from "gatsby"
 
 // import Layout from "../components/layout"
-import webServicesStyles from './web-services.module.scss'
-import languageSwitcherStyles from '../styles/language-switcher.module.scss'
+import * as webServicesStyles from './web-services.module.scss'
+import * as languageSwitcherStyles from '../styles/language-switcher.module.scss'
 import Footer from '../components/footer'
 
 const WebServicesPage = () => {
