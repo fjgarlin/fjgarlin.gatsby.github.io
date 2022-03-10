@@ -295,6 +295,12 @@
                         "https://www.drupal.org/project/config_notify/issues/3265539",
                         "https://www.drupal.org/project/maintenance_notify/issues/3265887#comment-14421263"
                     ]
+                },
+                {
+                    "month": "March",
+                    "urls": [
+                        "https://www.drupal.org/project/api/issues/2648976#comment-14440413"
+                    ]
                 }
             ]
         }
