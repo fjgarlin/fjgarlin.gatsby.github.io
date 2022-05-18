@@ -26,7 +26,6 @@ const IndexPage = () => {
             <ul>
                 <li><a rel="noreferrer" href="https://www.drupal.org/u/fjgarlin" target="_blank">Drupal</a></li>
                 <li><a rel="noreferrer" href="https://www.linkedin.com/in/fjgarlin" target="_blank">Linkedin</a></li>
-				<li><a rel="noreferrer" href="https://github.com/fjgarlin" target="_blank">Github</a></li>
             </ul>
         </Layout>
     )
