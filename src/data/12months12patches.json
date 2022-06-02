@@ -331,6 +331,12 @@
                         "https://www.drupal.org/project/project_browser/issues/3281891",
                         "https://www.drupal.org/project/project_browser/issues/3282778"
                     ]
+                },
+                {
+                    "month": "June",
+                    "urls": [
+                        "https://www.drupal.org/project/drupalorg_crosssite/issues/3283761"
+                    ]
                 }
             ]
         }
