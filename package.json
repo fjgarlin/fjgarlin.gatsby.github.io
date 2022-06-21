@@ -13,22 +13,23 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^4.8.0",
-    "gatsby-cli": "^4.8.0",
+    "gatsby": "^4.17.0",
+    "gatsby-cli": "^4.17.0",
     "gatsby-plugin-client-side-redirect": "^1.1.0",
-    "gatsby-plugin-sass": "^5.8.0",
-    "gatsby-plugin-sharp": "^4.8.0",
-    "gatsby-remark-images": "^6.8.0",
+    "gatsby-plugin-sass": "^5.17.0",
+    "gatsby-plugin-sharp": "^4.17.0",
+    "gatsby-remark-images": "^6.17.0",
     "gatsby-remark-relative-images": "^2.0.2",
-    "gatsby-source-filesystem": "^4.8.0",
-    "gatsby-transformer-remark": "^5.8.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "sass": "^1.49.8"
+    "gatsby-source-filesystem": "^4.17.0",
+    "gatsby-transformer-remark": "^5.17.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.52.3"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
-    "prettier": "^2.5.1"
+    "prettier": "^2.7.1",
+    "yarn-upgrade-all": "^0.7.1"
   },
   "repository": {
     "type": "git",
