@@ -336,7 +336,9 @@
                     "month": "June",
                     "urls": [
                         "https://www.drupal.org/project/drupalorg_crosssite/issues/3283761",
-                        "https://www.drupal.org/project/project_browser/issues/3284321"
+                        "https://www.drupal.org/project/project_browser/issues/3284321",
+                        "https://www.drupal.org/project/project_browser/issues/3281218",
+                        "https://www.drupal.org/project/project_browser/issues/3283826"
                     ]
                 }
             ]
