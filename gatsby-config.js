@@ -21,6 +21,12 @@ module.exports = {
                 ]
             }
         },
+        {
+            resolve: 'gatsby-plugin-manifest',
+            options: {
+                icon: 'static/logo-square.png',
+            },
+        },
         'gatsby-plugin-client-side-redirect' // keep it in last in list
     ]
 }
