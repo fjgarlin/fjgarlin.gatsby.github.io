@@ -9,6 +9,9 @@ import Footer from '../components/footer'
 const ServiciosWebPage = () => {
     return (
         <div class={webServicesStyles.webServices}>
+            <Link className={webServicesStyles.logo} to="/">
+                <img src='https://www.fjgarlin.com/logo.png' alt='Home' />
+            </Link>
             <Link className={languageSwitcherStyles.language} to="/web-services">EN</Link>
             <h2>Servicios Web</h2>
             <hr />
