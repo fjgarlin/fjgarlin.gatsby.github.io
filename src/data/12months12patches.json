@@ -342,6 +342,12 @@
                         "https://github.com/Lullabot/drupal9ci/pull/79/files",
                         "https://www.drupal.org/project/drupalorg/issues/3265112"
                     ]
+                },
+                {
+                    "month": "July",
+                    "urls": [
+                        "https://www.drupal.org/project/project_browser/issues/3267678"
+                    ]
                 }
             ]
         }
