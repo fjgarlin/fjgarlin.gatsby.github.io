@@ -355,6 +355,12 @@
                         "https://www.drupal.org/project/infrastructure/issues/3265117#comment-14629390",
                         "https://www.drupal.org/project/project_issue/issues/3300635#comment-14630891"
                     ]
+                },
+                {
+                    "month": "August",
+                    "urls": [
+                        "https://www.drupal.org/project/project_browser/issues/3301577"
+                    ]
                 }
             ]
         }
