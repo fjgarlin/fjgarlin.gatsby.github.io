@@ -371,7 +371,8 @@
                 {
                     "month": "September",
                     "urls": [
-                        "https://www.drupal.org/project/project_browser/issues/3307512"
+                        "https://www.drupal.org/project/project_browser/issues/3307512",
+                        "https://www.drupal.org/project/drupalorg/issues/3306964"
                     ]
                 }
             ]
