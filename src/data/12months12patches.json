@@ -382,6 +382,12 @@
                         "https://www.drupal.org/project/social_auth_keycloak/issues/3311309",
                         "https://www.drupal.org/project/drupal/issues/3311595"
                     ]
+                },
+                {
+                    "month": "October",
+                    "urls": [
+                        "https://www.drupal.org/project/project_issue/issues/1857390"
+                    ]
                 }
             ]
         }
