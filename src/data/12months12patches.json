@@ -392,6 +392,12 @@
                         "https://www.drupal.org/project/drupalorg_drupalcon/issues/3314751",
                         "https://www.drupal.org/project/api/issues/3316908"
                     ]
+                },
+                {
+                    "month": "November",
+                    "urls": [
+                        "https://www.drupal.org/project/versioncontrol_gitlab/issues/3319007"
+                    ]
                 }
             ]
         }
