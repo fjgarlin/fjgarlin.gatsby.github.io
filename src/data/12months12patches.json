@@ -397,7 +397,8 @@
                     "month": "November",
                     "urls": [
                         "https://www.drupal.org/project/versioncontrol_gitlab/issues/3319007",
-                        "https://www.drupal.org/project/filter_html_image_secure/issues/3320318"
+                        "https://www.drupal.org/project/filter_html_image_secure/issues/3320318",
+                        "https://www.drupal.org/project/project_git_instructions/issues/3300976"
                     ]
                 }
             ]
