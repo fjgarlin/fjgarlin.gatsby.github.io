@@ -401,6 +401,12 @@
                         "https://www.drupal.org/project/project_git_instructions/issues/3300976",
                         "https://www.drupal.org/project/drupalorg/issues/3266208"
                     ]
+                },
+                {
+                    "month": "December",
+                    "urls": [
+                        "https://www.drupal.org/project/drupalorg/issues/3325757"
+                    ]
                 }
             ]
         }
