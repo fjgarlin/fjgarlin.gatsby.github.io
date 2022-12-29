@@ -406,7 +406,8 @@
                     "month": "December",
                     "urls": [
                         "https://www.drupal.org/project/drupalorg/issues/3325757",
-                        "https://www.drupal.org/project/drupalorg/issues/3327584"
+                        "https://www.drupal.org/project/drupalorg/issues/3327584",
+                        "https://www.drupal.org/project/project_composer/issues/3327749"
                     ]
                 }
             ]
