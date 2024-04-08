@@ -1,0 +1,171 @@
+{
+    "data": [
+        {
+            "year": "2018",
+            "events": [
+                {
+                    "event": "DrupalCamp London",
+                    "talks": [
+                        {
+                            "title": "Handy modules when building and maintaining your site",
+                            "link": "https://www.youtube.com/watch?v=4Kl-OMFz7no"
+                        },
+                        {
+                            "title": "Dockerize your Drupal environments",
+                            "link": "https://www.youtube.com/watch?v=oz4i4TCv-MM"
+                        },
+                        {
+                            "title": "Growing developers with Drupal",
+                            "link": "https://www.youtube.com/watch?v=-T_43MTkoLI"
+                        }
+                    ]
+                },
+                {
+                    "event": "Drupal Europe",
+                    "talks": [
+                        {
+                            "title": "Handy modules when building and maintaining your site",
+                            "link": "https://www.youtube.com/watch?v=4Kl-OMFz7no"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "2019",
+            "events": [
+                {
+                    "event": "Drupal Dev Days - New York",
+                    "talks": [
+                        {
+                            "title": "GraphQL v4 - what's next?",
+                            "link": "https://www.youtube.com/watch?v=8qAXtDli5WE"
+                        }
+                    ]
+                },
+                {
+                    "event": "DrupalCamp Spain Conil",
+                    "talks": [
+                        {
+                            "title": "GraphQL and Twig, decouple Drupal's front end",
+                            "link": "https://www.youtube.com/watch?v=Uk7G3bUMVbY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "2020",
+            "events": [
+                {
+                    "event": "DrupalCon Global",
+                    "talks": [
+                        {
+                            "title": "Automating your Web Maintenance using Drutiny",
+                            "link": "https://www.youtube.com/watch?v=iCPki6Ntmso"
+                        }
+                    ]
+                },
+                {
+                    "event": "DrupalCon Europe",
+                    "talks": [
+                        {
+                            "title": "Add end to end tests in 20 minutes with CypressIO",
+                            "link": "https://www.youtube.com/watch?v=eL4zkArYQLo&amp%3Bfeature=share"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "2022",
+            "events": [
+                {
+                    "event": "DrupalCon Prague",
+                    "talks": [
+                        {
+                            "title": "Driesnote segment",
+                            "link": "https://youtu.be/Hmit4ET-l3Q?feature=shared&t=2406"
+                        }
+                    ]
+                },
+                {
+                    "event": "DrupalCamp Spain Zaragoza",
+                    "talks": [
+                        {
+                            "title": "[Spanish] Introducción a Test Funcionales con CypressIO",
+                            "link": "https://docs.google.com/presentation/d/1GaNh8t8QArFMCm18tCWVBDTXBd2HN_GO/edit?usp=sharing&ouid=103450417243093886914&rtpof=true&sd=true"
+                        }
+                    ]
+                },
+                {
+                    "event": "[Drupal Meetup] Drupaleros",
+                    "talks": [
+                        {
+                            "title": "[Spanish] Continuous Integration (CI) con Travis/Circle/Github",
+                            "link": "https://www.youtube.com/watch?v=8p6DqwbxWdY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "2023",
+            "events": [
+                {
+                    "event": "DrupalCamp Spain Sevilla",
+                    "talks": [
+                        {
+                            "title": "[Spanish] api.drupal.org, a journery from Drupal 7 to Drupal 10",
+                            "link": "https://www.youtube.com/watch?v=pHgawvDj6-M"
+                        }
+                    ]
+                },
+                {
+                    "event": "DrupalCon Lille",
+                    "talks": [
+                        {
+                            "title": "api.drupal.org, a journery from Drupal 7 to Drupal 10",
+                            "link": "https://www.youtube.com/watch?v=JiJ0GcLPGlM"
+                        },
+                        {
+                            "title": "Keynote Drupal Initiative Leads segment",
+                            "link": "https://youtu.be/Dnxp3aBPGhs?feature=shared&t=2181"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "year": "2024",
+            "events": [
+                {
+                    "event": "[Drupal Meetup] Drupaladas",
+                    "talks": [
+                        {
+                            "title": "[Spanish] Drupaladas - Gitlab CI",
+                            "link": "https://www.youtube.com/watch?v=y2Sigvh8Fpk"
+                        }
+                    ]
+                },
+                {
+                    "event": "DrupalCamp Burkina Faso Ouagadougou",
+                    "talks": [
+                        {
+                            "title": "The Basics of Drupal",
+                            "link": "https://drive.google.com/file/d/1i1YrynonXttM9lEnFehtZAAPLZSUxirU/view?usp=drive_link"
+                        },
+                        {
+                            "title": "Introduction to Views",
+                            "link": "https://drive.google.com/file/d/1h-5cF0BIiKEqEFLHuUX5XFUWnWp-x6UK/view?usp=drive_link"
+                        },
+                        {
+                            "title": "Introduction to Themes",
+                            "link": "https://drive.google.com/file/d/1hbnnFhMAVephMLfCQlJ_CBW9prKtnfLZ/view?usp=drive_link"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
