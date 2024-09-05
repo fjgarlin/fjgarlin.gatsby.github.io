@@ -11,6 +11,10 @@ mkdir $NEWFOLDER
 cd $NEWFOLDER
 git clone git@github.com:fjgarlin/fjgarlin.github.io.git .
 
+# Remove existing files for a clean reset.
+git rm -rf .
+git clean -fxd
+
 cp -R $CURRENTFOLDER/public/ $NEWFOLDER
 
 git add .
