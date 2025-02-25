@@ -164,6 +164,15 @@
                             "link": "https://drive.google.com/file/d/1hbnnFhMAVephMLfCQlJ_CBW9prKtnfLZ/view?usp=drive_link"
                         }
                     ]
+                },
+                {
+                    "event": "DrupalCamp Spain Benidorm",
+                    "talks": [
+                        {
+                            "title": "Migrar www.drupal.org de Drupal 7 a 11",
+                            "link": "https://www.youtube.com/watch?v=wTOUyJjj0k0"
+                        }
+                    ]
                 }
             ]
         }
