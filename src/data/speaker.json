@@ -175,6 +175,20 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2025",
+            "events": [
+                {
+                    "event": "DrupalCamp Iberia",
+                    "talks": [
+                        {
+                            "title": "Contribution to core and contrib can be quick and easy",
+                            "link": "https://2025.drupaliberia.eu/en/node/40"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
