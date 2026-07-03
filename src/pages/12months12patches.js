@@ -12,7 +12,7 @@ const Page12months12patches = () => {
                 My goal was: <em>"try to contribute at least one patch each month of the year"</em>.
             </p>
             <p>
-                I've been doing the challenge for 4 straight years, and now (2023) I work full-time at the Drupal Association, where all of my time is spent contributing to Drupal.
+                I have been doing the challenge for 4 straight years, and now (2023) I work full-time at the Drupal Association, where all of my time is spent contributing to Drupal.
                 That means that I'll stop tracking the issues I contribute on this page. You can check them <a href="https://new.drupal.org/user/2495842/contribution-records">here</a> if you want to keep track.
             </p>
             <p>
