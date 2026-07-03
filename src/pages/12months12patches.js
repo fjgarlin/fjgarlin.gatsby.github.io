@@ -13,7 +13,7 @@ const Page12months12patches = () => {
             </p>
             <p>
                 I've been doing the challenge for 4 straight years, and now (2023) I work full-time at the Drupal Association, where all of my time is spent contributing to Drupal.
-                That means that I'll stop tracking the issues I contribute on this page. You can check them <a href="https://www.drupal.org/u/fjgarlin/issue-credits">here</a> if you want to keep track.
+                That means that I'll stop tracking the issues I contribute on this page. You can check them <a href="https://new.drupal.org/user/2495842/contribution-records">here</a> if you want to keep track.
             </p>
             <p>
                 You can read more about the challenge in the blog posts (linked below), and see the list of patches/PRs submitted over the years 2019-2022.

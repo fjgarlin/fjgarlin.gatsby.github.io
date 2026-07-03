@@ -1,6 +1,7 @@
 #! /usr/bin/env bash
 
 # Build new copy.
+nvm use 18
 yarn run build
 
 # Bring github.io repo and override public folder.
